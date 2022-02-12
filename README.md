@@ -38,4 +38,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiosdsilva&show_icons=true&locale=en" alt="fabiosdsilva" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiosdsilva&" alt="fabiosdsilva" /></p>
