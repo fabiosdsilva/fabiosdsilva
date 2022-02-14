@@ -41,10 +41,10 @@
 </p>
 <br>
 
-![Fabio Silva ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=fabiosdsilva&custom_title=Gleysi%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![Fabio Silva ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=fabiosdsilva&custom_title=Fabio%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 
 <a href="https://github.com/fabiosdsilva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosdsilva&theme=gruvbox&hide_langs_below=1" alt="GLEYSI FERREIRA github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosdsilva&theme=gruvbox&hide_langs_below=1" alt="fabiosdsilva github stats"/>
 </a>
 
