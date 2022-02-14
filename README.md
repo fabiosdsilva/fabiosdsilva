@@ -33,8 +33,18 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
 </p>
+<br/>
+<p align="left">
+   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fabiosdsilva&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiosdsilva&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabiosdsilva&show_icons=true&locale=en&layout=compact" alt="fabiosdsilva" /></p>
+![Fabio Silva ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=fabiosdsilva&custom_title=Gleysi%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fabiosdsilva&show_icons=true&locale=en" alt="fabiosdsilva" /></p>
+
+<a href="https://github.com/fabiosdsilva">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosdsilva&theme=gruvbox&hide_langs_below=1" alt="GLEYSI FERREIRA github stats"/>
+</a>
 
