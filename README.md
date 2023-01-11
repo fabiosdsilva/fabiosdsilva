@@ -31,5 +31,3 @@
   </a>
 </p>
 <br>
-
-![Fabio Silva ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=fabiosdsilva&custom_title=Fabio%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
