@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="690" viewBox="0 0 1200 690" role="img" aria-labelledby="title desc">
+  <title id="title">Fabio Santos da Silva — Engenheiro DevOps</title>
+  <desc id="desc">Infraestrutura como código, confiabilidade e segurança na entrega. Princípios: 01 Infraestrutura como código, 02 Confiabilidade, 03 Segurança na entrega.</desc>
+
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="fade" cx="72%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="gridMask">
+      <rect width="1200" height="420" fill="url(#fade)"/>
+    </mask>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#22C55E" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Fundo -->
+  <rect width="1200" height="690" rx="16" fill="#0B0F14"/>
+  <rect width="1200" height="420" fill="url(#grid)" mask="url(#gridMask)"/>
+
+  <!-- Marcas de canto -->
+  <g stroke="#2A3441" stroke-width="1.5" fill="none">
+    <path d="M24 44V24H44"/>
+    <path d="M1156 24H1176V44"/>
+    <path d="M24 376V396H44"/>
+    <path d="M1156 396H1176V376"/>
+  </g>
+
+  <!-- Identidade -->
+  <g font-family="Inter, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">
+    <rect x="64" y="98" width="10" height="10" fill="#22C55E"/>
+    <text x="86" y="108" font-family="JetBrains Mono, SFMono-Regular, Consolas, Menlo, monospace" font-size="14" font-weight="700" letter-spacing="4" fill="#22C55E">ENGENHEIRO DEVOPS</text>
+
+    <text x="60" y="186" font-size="66" font-weight="800" letter-spacing="-1.5" fill="#F0F6FC">Fabio Santos</text>
+    <text x="60" y="258" font-size="66" font-weight="800" letter-spacing="-1.5" fill="#F0F6FC">da Silva</text>
+
+    <rect x="64" y="292" width="56" height="3" fill="#22C55E"/>
+
+    <text x="64" y="336" font-size="22" font-weight="400" fill="#8B949E">Infraestrutura como código, confiabilidade</text>
+    <text x="64" y="366" font-size="22" font-weight="400" fill="#8B949E">e segurança na entrega.</text>
+  </g>
+
+  <!-- Diagrama: nuvem, entrega, segurança -->
+  <circle cx="960" cy="235" r="230" fill="url(#glow)"/>
+
+  <g stroke="#2F3B4A" stroke-width="1.5" fill="none">
+    <circle cx="960" cy="245" r="150" stroke-dasharray="2 8"/>
+    <path d="M960 110L830 305"/>
+    <path d="M960 110L1090 305"/>
+    <path d="M830 305H1090" stroke-dasharray="6 6"/>
+  </g>
+
+  <!-- Pacotes em trânsito -->
+  <g fill="#22C55E">
+    <circle cx="895" cy="207.5" r="4"/>
+    <circle cx="1025" cy="207.5" r="4"/>
+    <circle cx="960" cy="305" r="4"/>
+  </g>
+
+  <!-- Nós -->
+  <g fill="#0F1620" stroke-width="1.5">
+    <circle cx="960" cy="110" r="58" fill="none" stroke="#1E2731"/>
+    <circle cx="960" cy="110" r="46" stroke="#22C55E"/>
+    <circle cx="830" cy="305" r="58" fill="none" stroke="#1E2731"/>
+    <circle cx="830" cy="305" r="46" stroke="#22C55E"/>
+    <circle cx="1090" cy="305" r="58" fill="none" stroke="#1E2731"/>
+    <circle cx="1090" cy="305" r="46" stroke="#22C55E"/>
+  </g>
+
+  <!-- Ícones -->
+  <g fill="none" stroke="#F0F6FC" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Nuvem -->
+    <path d="M944 124H977A10 10 0 0 0 977 104A15 15 0 0 0 949 101A11.5 11.5 0 0 0 944 124Z"/>
+    <!-- Entrega -->
+    <circle cx="812" cy="305" r="4"/>
+    <path d="M818 305H846"/>
+    <path d="M837 296L846 305L837 314"/>
+    <!-- Segurança -->
+    <path d="M1090 285L1106 291V303C1106 314 1099 321 1090 325C1081 321 1074 314 1074 303V291Z"/>
+    <path d="M1083 305L1088 310L1097 300"/>
+  </g>
+
+  <!-- Rótulos dos nós -->
+  <g font-family="JetBrains Mono, SFMono-Regular, Consolas, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="3" fill="#8B949E" text-anchor="middle">
+    <text x="1032" y="115" text-anchor="start">NUVEM</text>
+    <text x="830" y="390">ENTREGA</text>
+    <text x="1090" y="390">SEGURANÇA</text>
+  </g>
+
+  <!-- Divisor -->
+  <path d="M30 420H1170" stroke="#1E2731" stroke-width="1"/>
+
+  <!-- Cartões de princípios -->
+  <g font-family="Inter, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">
+    <!-- 01 -->
+    <rect x="30" y="450" width="360" height="210" rx="12" fill="#10161E" stroke="#1E2731"/>
+    <rect x="62" y="450" width="40" height="2" fill="#22C55E"/>
+    <text x="62" y="512" font-family="JetBrains Mono, SFMono-Regular, Consolas, Menlo, monospace" font-size="30" font-weight="700" fill="#22C55E">01</text>
+    <path d="M120 502H358" stroke="#1E2731"/>
+    <text x="62" y="566" font-size="19" font-weight="700" fill="#F0F6FC">Infraestrutura como código</text>
+    <text x="62" y="602" font-size="16" fill="#8B949E">Ambientes versionados, revisados</text>
+    <text x="62" y="626" font-size="16" fill="#8B949E">e reproduzíveis.</text>
+
+    <!-- 02 -->
+    <rect x="420" y="450" width="360" height="210" rx="12" fill="#10161E" stroke="#1E2731"/>
+    <rect x="452" y="450" width="40" height="2" fill="#22C55E"/>
+    <text x="452" y="512" font-family="JetBrains Mono, SFMono-Regular, Consolas, Menlo, monospace" font-size="30" font-weight="700" fill="#22C55E">02</text>
+    <path d="M510 502H748" stroke="#1E2731"/>
+    <text x="452" y="566" font-size="19" font-weight="700" fill="#F0F6FC">Confiabilidade</text>
+    <text x="452" y="602" font-size="16" fill="#8B949E">Entrega contínua e operação</text>
+    <text x="452" y="626" font-size="16" fill="#8B949E">observável.</text>
+
+    <!-- 03 -->
+    <rect x="810" y="450" width="360" height="210" rx="12" fill="#10161E" stroke="#1E2731"/>
+    <rect x="842" y="450" width="40" height="2" fill="#22C55E"/>
+    <text x="842" y="512" font-family="JetBrains Mono, SFMono-Regular, Consolas, Menlo, monospace" font-size="30" font-weight="700" fill="#22C55E">03</text>
+    <path d="M900 502H1138" stroke="#1E2731"/>
+    <text x="842" y="566" font-size="19" font-weight="700" fill="#F0F6FC">Segurança na entrega</text>
+    <text x="842" y="602" font-size="16" fill="#8B949E">Controle no pipeline, da imagem</text>
+    <text x="842" y="626" font-size="16" fill="#8B949E">ao deploy.</text>
+  </g>
+</svg>
